@@ -27,13 +27,11 @@ namespace FightBoat
 
 		public Grid() 
 		{
-		
+			gridStates = new GRIDSTATE[width,height];
 		}
 
 		public void Load()
 		{
-			gridStates = new GRIDSTATE[width,height];
-
 			for(int i = 0; i < width; i++)
 			{
 				for (int j = 0; j < height; i++)
@@ -54,7 +52,7 @@ namespace FightBoat
 		}
 
 		//Returns the previous state
-		public GRIDSTATE ChangeSquare(int x, int y, GRIDSTATE newState)
+		public GRIDSTATE ChangeSquareState(int x, int y, GRIDSTATE newState)
 		{
 			GRIDSTATE oldState = gridStates[x,y];
 
