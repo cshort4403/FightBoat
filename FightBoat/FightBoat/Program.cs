@@ -4,7 +4,38 @@
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello, World!");
+			Load();
+
+			while(true) 
+			{
+				Update();
+				Draw();
+				LateUpdate();
+			
+			}
+
 		}
+
+		static void Load()
+		{
+
+		}
+
+		static void Update()
+		{
+
+		}
+		static void Draw()
+		{
+
+		}
+
+		static void LateUpdate()
+		{
+
+		}
+
+
+
 	}
 }

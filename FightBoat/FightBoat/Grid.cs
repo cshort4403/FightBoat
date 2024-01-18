@@ -6,18 +6,38 @@ using System.Threading.Tasks;
 
 namespace FightBoat
 {
+	public enum GRIDSTATE
+	{
+		EMPTY = 0,
+		SHIP = 1,
+		SHIP_HIT = 2,
+		OIL_RIG = 3,
+		OIL_RIG_HIT = 4,
+		TARGET_HIT = 5,
+		TARGET_MISS = 6
+	}
+
+
 	internal class Grid
 	{
+
+		public int width = 10, height = 10;
+
 		public Grid() 
 		{
 		
 		}
 
-		void Update()
+		public void Load()
 		{
 
 		}
-		void Draw()
+
+		public void Update()
+		{
+
+		}
+		public void Draw()
 		{
 
 		}
