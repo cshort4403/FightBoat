@@ -1,18 +1,11 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-  "dgSpecHash": "ExUczWHJTWmMjP6MyNyUZx4jyZPCuY0dOtp7cypP3y+OqMN+epzZv+CWahF4agowR4coYlvYA0JBMqzvyr+Fow==",
+  "dgSpecHash": "43viYL6iVEKddqi6pYDbcUv8Sj0+LDwVvlKaCWKjN0BAw7u5VwBE1iYfVq4DFtlbF+TkyK0CxkbZTAPGqlF4cQ==",
   "success": true,
-  "projectFilePath": "/Users/jonahcappa/Documents/GitHub/FightBoat/FightBoat/FightBoat/FightBoat.csproj",
-  "expectedPackageFiles": [],
-=======
-  "dgSpecHash": "TCrPml9Q6r+ctthEOcK7PETXQRottubkdwmPK9ui/oJodOFCUfUstfl1f5G7zRuf83WyOfwHagLPhvS11PDTAw==",
-  "success": true,
-  "projectFilePath": "/Users/jonahcappa/Documents/GitHub/FightBoat/FightBoat/FightBoat/FightBoat.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Mohawk\\Course Work\\Winter2024\\Prototyping Foundations\\FightBoat\\FightBoat\\FightBoat\\FightBoat.csproj",
   "expectedPackageFiles": [
-    "/Users/jonahcappa/.nuget/packages/raylib-cs/5.0.0/raylib-cs.5.0.0.nupkg.sha512",
-    "/Users/jonahcappa/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
   ],
->>>>>>> Stashed changes
   "logs": []
 }
